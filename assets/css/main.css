@@ -72,3 +72,9 @@
 .key-row:first-child {
   color: #58ddc8;
 }
+
+@media only screen and (max-width: 768px){
+  .calculator-box {
+    width: 85%;
+  }
+}
